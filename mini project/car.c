@@ -21,6 +21,14 @@ int main() {
 
         switch (choice) {
             case 1:
+
+
+
+
+
+
+
+            
                 if (occupied < totalSpace) {
                     occupied++;
                     printf("Car parked successfully.\n");
